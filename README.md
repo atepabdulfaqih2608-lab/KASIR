@@ -15,11 +15,15 @@ __(file)
 
 Kasir(folder utama)
 -assets
+
 -assets1
+
 -admin
 __index1.php
+
 -kasir
 __index2.php
+
 -config
 __konek.php
 
